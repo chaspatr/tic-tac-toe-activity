@@ -21,4 +21,5 @@ main {
 }
 .grid-cell:hover {
   background: cyan;
+  cursor: pointer;
 }
